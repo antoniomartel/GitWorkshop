@@ -1,1 +1,2 @@
 feature1 cambiado en rama feature1
+Añadida feature3
